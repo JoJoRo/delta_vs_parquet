@@ -1,7 +1,7 @@
 # delta_vs_parquet
 Small code to check Delta tables vs Parquet behaviour.
 
-## 1. Venv and libraries
+## 1. Virtual env and libraries
 
 Some steps are missing because I assume that, if you are here you know what you are doing.
 
